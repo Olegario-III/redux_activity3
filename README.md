@@ -23,3 +23,19 @@ A simple shopping cart application built with **Redux Toolkit**. Features adding
 2. Install dependencies:
    ```bash
    npm install
+📝 Code Highlights
+
+History stack pattern for undo functionality
+Immutable state updates using Redux Toolkit
+Reusable components (ProductList, Cart, UndoButton)
+
+📌 Project Purpose
+This project demonstrates advanced Redux concepts:
+
+Managing complex state (items + history)
+Implementing undo/redo pattern
+Action dispatching and state selection
+Clean separation of concerns with components and slices
+
+
+Learning Project | Built with ❤️ using React + Redux Toolkit
